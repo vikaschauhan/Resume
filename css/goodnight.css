@@ -1,0 +1,11 @@
+body {
+    background: #fff;
+    font-size: 100%;
+    font-family: "Ubuntu", sans-serif;
+    padding-top: 70px;
+}
+.navbar-default {
+    background: #1f253d;
+    color: #fff;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
